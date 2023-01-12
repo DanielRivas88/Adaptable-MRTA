@@ -1,0 +1,144 @@
+#############################
+#................@@@@@@@@@@@#
+#................V<<<<<<<<<<#
+#.VV<<<<<<<V<<<<<<<V<<<<<<<<#
+#.VV@@@A@@@V@@@A@@@V@@@A@@@A#
+#@VV@@@A@@@V@@@A@@@V@@@A@@@A#
+#.>>>>>A>>>>>>>A>>>>>>>A>>>A#
+#.VV@@@A@@@V@@@A@@@V@@@A@@@A#
+#@VV@@@A@@@V@@@A@@@V@@@A@@@A#
+#.VV<<<<<<<V<<<<<<<V<<<<<<<<#
+#.VV@@@A@@@V@@@A@@@V@@@A@@@A#
+#@VV@@@A@@@V@@@A@@@V@@@A@@@A#
+#.>>>>>A>>>>>>>A>>>>>>>A>>>A#
+#.>>>>>A>>>>>>>A>>>>>>>A>>>A#
+#....@...@...@...@...@...@..#
+#############################
+@1 Charge1 
+@2 Charge2 
+@3 Charge3 
+@4 Charge4 
+@5 Charge5 
+@6 Charge6 
+@7 Charge7 
+@8 Charge8 
+@9 Charge9 
+@10 Charge10 
+@11 Charge11 
+@12 A1 Pick
+@13 A2 Pick
+@14 A3 Pick
+@15 B1 Pick
+@16 B2 Pick
+@17 B3 Pick
+@18 B4 Pick
+@19 B5 Pick
+@20 B6 Pick
+@21 C1 Pick
+@22 C2 Pick
+@23 C3 Pick
+@24 D1 Pick
+@25 D2 Pick
+@26 D3 Pick
+@27 D4 Pick
+@28 D5 Pick
+@29 D6 Pick
+@30 Pick1
+@31 A4 Pick
+@32 A5 Pick
+@33 A6 Pick
+@34 B7 Pick
+@35 B8 Pick
+@36 B9 Pick
+@37 B10 Pick
+@38 B11 Pick
+@39 B12 Pick
+@40 C4 Pick
+@41 C5 Pick
+@42 C6 Pick
+@43 D7 Pick
+@44 D8 Pick
+@45 D9 Pick
+@46 D10 Pick
+@47 D11 Pick
+@48 D12 Pick
+@49 A7 Pick
+@50 A8 Pick
+@51 A9 Pick
+@52 B13 Pick
+@53 B14 Pick
+@54 B15 Pick
+@55 B16 Pick
+@56 B17 Pick
+@57 B18 Pick
+@58 C7 Pick
+@59 C8 Pick
+@60 C9 Pick
+@61 E1 Pick
+@62 E2 Pick
+@63 E3 Pick
+@64 E4 Pick
+@65 E5 Pick
+@66 E6 Pick
+@67 Pick2
+@68 A10 Pick
+@69 A11 Pick
+@70 A12 Pick
+@71 B19 Pick
+@72 B20 Pick
+@73 B21 Pick
+@74 B22 Pick
+@75 B23 Pick
+@76 B24 Pick
+@77 C10 Pick
+@78 C11 Pick
+@79 C12 Pick
+@80 E7 Pick
+@81 E8 Pick
+@82 E9 Pick
+@83 E10 Pick
+@84 E11 Pick
+@85 E12 Pick
+@86 A13 Pick
+@87 A14 Pick
+@88 A15 Pick
+@89 B25 Pick
+@90 B26 Pick
+@91 B27 Pick
+@92 B28 Pick
+@93 B29 Pick
+@94 B30 Pick
+@95 C13 Pick
+@96 C14 Pick
+@97 C15 Pick
+@98 E13 Pick
+@99 E14 Pick
+@100 E15 Pick
+@101 E16 Pick
+@102 E17 Pick
+@103 E18 Pick
+@104 Pick3
+@105 A16 Pick
+@106 A17 Pick
+@107 A18 Pick
+@108 B31 Pick
+@109 B32 Pick
+@110 B33 Pick
+@111 B34 Pick
+@112 B35 Pick
+@113 B36 Pick
+@114 C16 Pick
+@115 C17 Pick
+@116 C18 Pick
+@117 E19 Pick
+@118 E20 Pick
+@119 E21 Pick
+@120 E22 Pick
+@121 E23 Pick
+@122 E24 Pick
+@123 Pick4
+@124 Pick5
+@125 Pick6
+@126 Pick7
+@127 Pick8
+@128 Pick9
