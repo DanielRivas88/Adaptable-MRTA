@@ -2,7 +2,9 @@
 Adaptable Multi-Robot Task Allocation System with task reallocation
 Model for an adaptable Multi-Robot Task Allocation algorithm with task reallocation
 
-Before executing the program, open the 'config.lua' file and edit the value in the 'folder' variable (line 7) with the folder path to the model.
+Before executing the program:
+ - Open the 'config.lua' file and edit the value in the 'folder' variable (line 7) with the folder path to the model.
+ - Create a 'runs' folder inside the model's folder (used to save the executions' results)
 
 The file 'config.lua' contains all the configurable parameters for the model. These parameters are divided into three groups in the following order:
  - frequently used parameters
